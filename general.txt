@@ -1,0 +1,4 @@
+General Grammer for Tagger:
+1-you should not insert any word contains (تنوين) 
+2-please separate particle from noun or verb using white space
+3-you should not insert any word contains (همزة)
